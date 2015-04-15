@@ -14,3 +14,5 @@ http://eax.me/freebsd-vs-linux/
 http://www.osp.ru/os/2004/12/184900/
 http://www.opennet.ru/base/net/debian_ldap_install1.txt.html
 
+###TravisCI
+https://github.com/travis-ci/travis-ci/issues/1418
