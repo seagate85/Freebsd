@@ -16,3 +16,6 @@ http://www.opennet.ru/base/net/debian_ldap_install1.txt.html
 
 ###TravisCI
 https://github.com/travis-ci/travis-ci/issues/1418
+
+### ipv6
+http://citforum.ru/operating_systems/freebsd/handbook/network-ipv6.shtml
