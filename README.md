@@ -19,3 +19,7 @@ https://github.com/travis-ci/travis-ci/issues/1418
 
 ### ipv6
 http://citforum.ru/operating_systems/freebsd/handbook/network-ipv6.shtml
+
+### Neural pool
+http://163.178.103.176/Temas/Temab2N/APortal/FisoNerCG/FisoNerOb1/Mari/Obj112.html
+
