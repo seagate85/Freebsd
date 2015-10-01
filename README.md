@@ -23,3 +23,5 @@ http://citforum.ru/operating_systems/freebsd/handbook/network-ipv6.shtml
 ### Neural pool
 http://163.178.103.176/Temas/Temab2N/APortal/FisoNerCG/FisoNerOb1/Mari/Obj112.html
 
+### Linux from scratch
+http://www.linuxfromscratch.org/lfs/downloads/7.6/LFS-BOOK.pdf
