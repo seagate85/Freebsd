@@ -29,3 +29,6 @@ http://www.linuxfromscratch.org/lfs/downloads/7.6/LFS-BOOK.pdf
 ### http://артемизия.рф/stevija.html#.ViUtFG74TIU
 
 ### Back-UPS
+
+### Scripting: Higher-Level Programming for the 21st Century
+http://web.stanford.edu/~ouster/cgi-bin/papers/scripting.pdf
